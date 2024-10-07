@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|c:\\users\\eldorbek\\source\\repos\\panoh\\panoh\\ms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|solutionrelative:panoh\\ms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|C:\\Users\\Eldorbek\\source\\repos\\PanoH\\panoh\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|solutionrelative:panoh\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|C:\\Users\\Eldorbek\\source\\repos\\PanoH\\panoh\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|solutionrelative:panoh\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|C:\\Users\\Eldorbek\\source\\repos\\PanoH\\panoh\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|solutionrelative:panoh\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|C:\\Users\\Eldorbek\\source\\repos\\PanoH\\panoh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|solutionrelative:panoh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|C:\\Users\\Eldorbek\\source\\repos\\PanoH\\panoh\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|solutionrelative:panoh\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|C:\\Users\\Eldorbek\\source\\repos\\PanoH\\panoh\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|solutionrelative:panoh\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|C:\\Users\\Eldorbek\\source\\repos\\PanoH\\panoh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|solutionrelative:panoh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|C:\\Users\\Eldorbek\\source\\repos\\PanoH\\panoh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|solutionrelative:panoh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|C:\\Users\\Eldorbek\\source\\repos\\PanoH\\panoh\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C42471-ABB6-4BCA-BE48-FB307CBE4882}|PanoH\\PanoH.csproj|solutionrelative:panoh\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 13,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MS.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\MS.cs",
+              "RelativeDocumentMoniker": "PanoH\\MS.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\MS.cs",
+              "RelativeToolTip": "PanoH\\MS.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:38:34.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form1.cs",
+              "RelativeDocumentMoniker": "PanoH\\Form1.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form1.cs",
+              "RelativeToolTip": "PanoH\\Form1.cs",
+              "ViewState": "AQIAADIAAAAAvMzMzMwHwFQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:17:25.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form4.cs",
+              "RelativeDocumentMoniker": "PanoH\\Form4.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PanoH\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:22:46.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PanoH\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form1.Designer.cs",
+              "RelativeToolTip": "PanoH\\Form1.Designer.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAAwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:10:38.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form1.cs",
+              "RelativeDocumentMoniker": "PanoH\\Form1.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PanoH\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:39:45.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form2.cs",
+              "RelativeDocumentMoniker": "PanoH\\Form2.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PanoH\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:14:43.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form2.cs",
+              "RelativeDocumentMoniker": "PanoH\\Form2.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form2.cs",
+              "RelativeToolTip": "PanoH\\Form2.cs",
+              "ViewState": "AQIAACUAAAAAmMzMzMwBwGEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:14:59.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form4.cs",
+              "RelativeDocumentMoniker": "PanoH\\Form4.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form4.cs",
+              "RelativeToolTip": "PanoH\\Form4.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAAIQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:22:49.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "PanoH\\Form4.Designer.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form4.Designer.cs",
+              "RelativeToolTip": "PanoH\\Form4.Designer.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:22:59.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "PanoH\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\source\\repos\\PanoH\\PanoH\\Form2.Designer.cs",
+              "RelativeToolTip": "PanoH\\Form2.Designer.cs",
+              "ViewState": "AQIAAHwAAACAy8zMzEwXwJUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:26:51.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
